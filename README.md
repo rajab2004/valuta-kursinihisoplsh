@@ -1,11 +1,11 @@
 #  Telegram Bot (USD ↔ UZS)
 telagiram bot so'mi dollirga  , dollirni so'mga o'tkazip hisoplaydi
-## Features
-- Main menu with two buttons: 
+## ishlashi 
+- Menyu 2 ta chiqadi harbir menyudan orqaga bosh menyga qaytish tugmasi bor : 
   - "So'm → Dollar"
   - "Dollar → So'm"
-4. **Run the bot:**
-   ```bash
+4. **botni ishlatish uchun :**
+   ```botni ishga tushurish o'z telagiram tokinizni yozasiz  va terminalga pastda  gi buyruqni yozasiz .
    python -m app.main
    ```
 ## Python Version
